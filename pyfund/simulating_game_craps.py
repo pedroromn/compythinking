@@ -46,7 +46,7 @@ def simulation_craps():
     return game_status
 
 def main():
-    print("Similation game craps init: ")
+    print("Simulation game craps init: ")
     game_status = simulation_craps()
 
     if game_status == 'WON':
